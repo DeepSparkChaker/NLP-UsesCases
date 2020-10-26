@@ -1,0 +1,133 @@
+1-understanding:
+
+1_nlp 
+https://github.com/neomatrix369/nlp_profiler
+https://github.com/neomatrix369/nlp_profiler/blob/master/notebooks/google-colab/nlp_profiler.ipynb
+2_cv
+ 
+2-preparation :
+read data :
+https://media-exp1.licdn.com/dms/document/C4E1FAQECjqcqCsI8bw/feedshare-document-pdf-analyzed/0?e=1601985600&v=beta&t=tarwa6aWr4CSQCT3z8xmzLqd09Vz9BSDVC3HfGoa_gg
+https://www.linkedin.com/posts/stevenouri_data-science-guide-activity-6704293262934519808-A5Fe/?fbclid=IwAR1DgZxXQTOnWiFpMolYMR613guYClSyRp7r87rAFlozSlwd5oZxh-yQ3Dg
+general preparation:
+https://machinelearningmastery.com/data-preparation-techniques-for-machine-learning/
+
+1_nlp 
+2_cv
+
+3_data augmentation dor smenatic sgemantation :
+https://www.youtube.com/watch?v=bSxz_EWwZtA&feature=youtu.be&fbclid=IwAR0cvhVzZqHNk5Vv8yZQ00wkrlQnSaliFHtHM2EmCzSXjxgNzBjYGRaV4fw
+
+3-modeling:
+
+3-1nlp reprosotires :
+https://www.linkedin.com/posts/hackmakers_nlp-repo-ugcPost-6690289958823038976-CLdz/?fbclid=IwAR2pCt7fQww4N68ehAYeDIv28dNToDUsQwkubUmSTibDt_eBVifZa_oOGis
+https://huggingface.co/oliverguhr/german-sentiment-bert?text=I+like+you.+I+love+you
+
+3-2wor2vec:Bert+glove:
+https://towardsdatascience.com/calculating-document-similarities-using-bert-and-other-models-b2c1a29c9630
+
+3-31_nlp 
+books :https://nextotech.com/natural-language-processing-books-in-2020/?fbclid=IwAR3-j6OBcS0puEQSxR-yGQ_HWivCCllS2vjaAFKfRbSKWlEkOlkLr4z1-h0
+
+rnn _lstm :
+https://towardsdatascience.com/recurrent-neural-networks-by-example-in-python-ffd204f99470
+
+sentiment analysis :
+Kaggle 3 solution :https://towardsdatascience.com/kaggle-3rd-place-solution-jigsaw-multilingual-toxic-comment-classification-e36d7d194bfb
+https://www.datasciencecentral.com/profiles/blogs/sentiment-analysis-using-deep-learning?fbclid=IwAR1yFhLkUlunhgwuaHijDcyNK3rARmeznudxgga9pQWI_TNqzBn-2I-dM7Q
+https://www.analyticsvidhya.com/blog/2018/07/hands-on-sentiment-analysis-dataset-python/?fbclid=IwAR3tGONVnBWyypMSRRFIwXTrZj-YX_HRqUpjacffstxn7Ad_Q9g30OCG0hU
+https://medium.com/analytics-vidhya/sentiment-analysis-movies-reviews-b299de4bb1aa
+
+sentiment analyis idoms :
+https://towardsdatascience.com/%EF%B8%8F-sentiment-analysis-idioms-and-their-importance-2f547f2e646c
+
+topic modeling :
+https://www.analyticsvidhya.com/blog/2018/10/mining-online-reviews-topic-modeling-lda/?fbclid=IwAR2pCt7fQww4N68ehAYeDIv28dNToDUsQwkubUmSTibDt_eBVifZa_oOGis
+https://www.analyticsvidhya.com/blog/2018/10/stepwise-guide-topic-modeling-latent-semantic-analysis/
+https://www.analyticsvidhya.com/blog/2018/10/stepwise-guide-topic-modeling-latent-semantic-analysis/
+NER with LSTM:
+https://medium.com/@tekrajawasthi15/named-entity-recognition-using-lstm-in-keras-93abd93c84fa
+
+transformer :
+https://sago-ai.news/?edition_id=a2f95850-0410-11eb-8104-002590a5ba2d#/
+https://analyticsindiamag.com/googles-new-nlp-model-achieves-bert-level-performance-using-few-parameters/
+geuery tabular data using NLP:
+https://medium.com/dataseries/google-tapas-is-a-bert-based-model-to-query-tabular-data-using-natural-language-2435a386b43f
+2_cv:
+https://analyticsindiamag.com/top-8-algorithms-for-object-detection/
+https://medium.com/ai-in-plain-english/five-unbelievable-open-source-object-detection-projects-ready-to-use-in-2020-part-2-c0de88666a97
+transformers for image:
+https://www.youtube.com/watch?v=TrdevFK_am4&feature=youtu.be&fbclid=IwAR3L4wTPSZjreQQmZtMtRrNJYcUX0rZLfiw7sm8dVCyaO1zdDWoCDZ2rd7w
+
+Mask-RCNN-TF2:
+https://github.com/ahmedfgad/Mask-RCNN-TF2?fbclid=IwAR0SGxtXJgzGSVaapc-hOxDnckTcFa0XWos6MqQ3ZSkyB8LELJ1qSUCXHOc
+https://github.com/ahmedfgad/Mask-RCNN-TF2/blob/master/samples/mask-rcnn-prediction.py?fbclid=IwAR3Pmpkp2DWv9qK4ZXmzrEDWmct4aym4q3kt-YXFZ9Ed2ekmd4hDAGtIFrk
+https://github.com/ahmedfgad/Mask-RCNN-TF2
+https://www.youtube.com/watch?v=LGq0BdaIZ6Y&feature=youtu.be&fbclid=IwAR0_tkCHXVUJkuFc3dpjlCERSnz48jEUEwgNJnvDuSpYbV9thjbFycZ5kJg
+https://morioh.com/p/d66cc1308caf?f=5c21f93bc16e2556b555ab2f&fbclid=IwAR2gYAGemFeSIo0BcFn2BjSvpNANVsa8FK2pWnMTbsy5sCDXA3ZfDy-CBCI
+annotate :
+https://blog.superannotate.com/superannotate-desktop-a-better-alternative-to-free-annotation-tools?fbclid=IwAR2yLNv9aWdzB3O7dGB5PEsSY32Ro9NHVAUT6PUP6yqHyQIgMM7nF-ijGIg
+OCR:
+https://www.indiegogo.com/projects/ocr-with-opencv-tesseract-and-python#/
+
+2D to 3D:
+Image 2 d à 3 d en minute
+https://youtu.be/qCVnPlr7eSY
+https://www.youtube.com/watch?v=qCVnPlr7eSY&feature=youtu.be&fbclid=IwAR0b_X_9WZM_HvgrICkUMHKnWiBvwLsMe1q9pOEREZWGeotX1I7M2IGKC1o
+
+plaque detection :
+https://medium.com/@arielnana913/vehicle-number-plate-recognition-using-opencv-and-sqlite3-54866f9d0da1?source=social.fb
+
+
+http://szeliski.org/Book/?fbclid=IwAR3I9i5oQ5gru2sBWZnuJ-fmtNFmH6-YL07Xf1YUvXXqMeQ6-gmHW2-vOgc
+Xray :
+https://www.youtube.com/watch?v=TOf4EUK-EZc&fbclid=IwAR2lu3TUUeULjQ-UlF-0M4N1VDYUEXsj0QPHG0UGis7iuMoarTUm8hYJHOA
+4-evaluation :
+
+1_nlp 
+2_cv
+
+5-deplyoment :
+
+
+fastapi :
+https://www.linkedin.com/posts/isaacfaber_artificialintelligence-flask-python-activity-6689644287648419840-8ROl/?fbclid=IwAR0dnzS4moA1ahlMMM7Tdthpcuie4pCwF0HiugJXx3grVt1_ep7IWHDzbOg
+flask+kubernates :
+https://morioh.com/p/078eaef041fe?f=5c21f93bc16e2556b555ab2f&fbclid=IwAR0b_X_9WZM_HvgrICkUMHKnWiBvwLsMe1q9pOEREZWGeotX1I7M2IGKC1o
+
+1_nlp 
+
+2_cv:
+
+represotires :
+https://github.com/Tessellate-Imaging/monk_v1/tree/master/study_roadmaps/4_image_classification_zoo?fbclid=IwAR1q_7qP_7Yk7tJwC15XFWVWQjAzgS_baJZ0XCESqlqi4NSPEF4Va5yX6D4
+
+
+https://morioh.com/p/ac0e2f0c00a7?f=5c21fb01c16e2556b555ab32&fbclid=IwAR1q_7qP_7Yk7tJwC15XFWVWQjAzgS_baJZ0XCESqlqi4NSPEF4Va5yX6D4
+https://morioh.com/p/3baa000fc8e7?f=5c21f93bc16e2556b555ab2f&fbclid=IwAR3gjEfKZXR3IBEwo-LeMFwl1KDofTjL5LoUQW4UK8QRzDF4S_Z-1VnYXz4
+
+https://medium.com/@b.yassine.89/automatic-weld-defect-detection-using-yolov3-and-faster-r-cnn-cba1840e48ec
+yolov4:
+https://morioh.com/p/696345dcfa49?f=5c21fb01c16e2556b555ab32&fbclid=IwAR2LCWZ2nnUUxfPgxYIXzPnAQorGRu2r0lhaC31bpRnLqxgI6bA9wLApXA8
+
+https://www.catalyzex.com/paper/arxiv:2008.08324?fbclid=IwAR2LCWZ2nnUUxfPgxYIXzPnAQorGRu2r0lhaC31bpRnLqxgI6bA9wLApXA8
+Xray:
+https://www.sciencedirect.com/science/article/abs/pii/S0263224120305844?fbclid=IwAR1q_7qP_7Yk7tJwC15XFWVWQjAzgS_baJZ0XCESqlqi4NSPEF4Va5yX6D4
+
+6-Data Search:
+https://datasetsearch.research.google.com/?fbclid=IwAR3Vnl0IJ3t4RBnyknQ0xz8iHi-Idh6EUuyuZ6aKDJq3rKM16TbFu856InU
+
+7-recommendation system:
+https://towardsdatascience.com/how-to-build-a-recommendation-system-in-a-graph-database-using-a-latent-factor-model-fa2d142f874
+
+8-Xgboost :
+https://thecleverprogrammer.com/2020/09/04/xgboost-in-machine-learning/?fbclid=IwAR1q_7qP_7Yk7tJwC15XFWVWQjAzgS_baJZ0XCESqlqi4NSPEF4Va5yX6D4
+
+9-geospatial
+https://www.linkedin.com/posts/stevenouri_technology-artificialintelligence-datascience-activity-6684155927937060864-147w/?fbclid=IwAR3zc88AhZ2jjLXrVGHGAuBNKFK2T45Ca3qaYz0zzOyUZxjKb1Wu5UBdiAI
+
+10-spark :
+spark_submit :
+https://sparkbyexamples.com/spark/spark-submit-command/?fbclid=IwAR2ap3v0lWItzPC1cyA7jDTOS6u8iIr1mOs6OTMXEnJ1D2MbVplRZo8GjTM
+https://www.linkedin.com/posts/towards-data-science_mastering-query-plans-in-spark-30-activity-6685248555256438784-w6Ys/?fbclid=IwAR2KE0jGg6fhoXW2UK_sd12zO_LCRfRn9clTIJ8xPatB1C9o0juFMsFjmMQ
