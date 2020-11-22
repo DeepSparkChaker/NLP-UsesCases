@@ -7,16 +7,16 @@ NLP
 -project :
 
 Analyze Text Data with Yellowbrick:
-https://www.coursera.org/learn/analyze-text-data-yellowbrick/home/welcome
+https://www.coursera.org/learn/analyze-text-data-yellowbrick/home/welcome :  done 
 
 NLP: Twitter Sentiment Analysis
-https://www.coursera.org/learn/twitter-sentiment-analysis/home/welcome
+https://www.coursera.org/learn/twitter-sentiment-analysis/home/welcome:done 
 
 Basic Sentiment Analysis with TensorFlow
-https://www.coursera.org/learn/basic-sentiment-analysis-tensorflow/home/welcome
+https://www.coursera.org/learn/basic-sentiment-analysis-tensorflow/home/welcome:EN going Task 
 
 Build NLP pipelines using scikit-learn:
-https://www.coursera.org/learn/build-nlp-pipelines-using-scikit-learn/home/welcome
+https://www.coursera.org/learn/build-nlp-pipelines-using-scikit-learn/home/welcome:Done 
 
 Perform Sentiment Analysis with scikit-learn:
 https://www.coursera.org/learn/scikit-learn-logistic-regression-sentiment-analysis/home/welcome
