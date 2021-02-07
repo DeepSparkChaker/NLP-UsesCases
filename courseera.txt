@@ -95,7 +95,8 @@ https://www.coursera.org/learn/clean-explore-visualize-big-data-python-spark/hom
 Python: Imputations, Feature Creation & Statistical Analysis
 https://www.coursera.org/learn/imputations-feature-creation/home/welcome
 
-Class Creation in Object Oriented Python
+Class Creation in Object Oriented Pythonwelcome
+
 https://www.coursera.org/learn/class-creation-in-object-oriented-python/home/welcome
 
 
@@ -139,3 +140,47 @@ https://www.coursera.org/learn/python-data-processing/home/welcome
 
 Data Collection and Processing with Python
 https://www.coursera.org/learn/data-collection-processing-python/home/welcome
+good Sites :
+https://morioh.com/p/3dc30e6b96a7?f=5c21fb01c16e2556b555ab32
+https://morioh.com/p/87fec35a1141?f=5c21fb01c16e2556b555ab32
+https://towardsdatascience.com/functional-modeling-and-quantitative-system-analysis-in-python-22b90bf0b9b5
+https://stackoverflow.com/questions/66055330/how-can-i-save-a-matplotlib-plot-that-is-the-output-of-a-function-in-jupyter?sfb=2
+https://morioh.com/p/88b27eae0510?f=5c21fb01c16e2556b555ab32
+https://medium.com/towards-artificial-intelligence/genetic-algorithm-stop-overfitting-trading-strategies-5df671d5cde1
+https://medium.com/towards-artificial-intelligence/time-series-forecasting-building-and-deploying-models-continued-deee0588b28c
+https://github.com/AIStream-Peelout/flow-forecast
+https://github.com/AIStream-Peelout/flow-forecast
+https://www.kaggle.com/imvinaysharma/bert-sentiment-analysis
+https://github.com/AIStream-Peelout/flow-forecast
+https://www.kaggle.com/imvinaysharma/bert-sentiment-analysis
+https://github.com/Domminique/Deploy-BERT-for-Sentiment-Analysis-with-FastAPI-
+https://testdriven.io/blog/fastapi-streamlit/
+https://2020.es.pycon.org/speaker_8.html
+https://testdriven.io/blog/fastapi-streamlit/
+https://curiousily.com/posts/deploy-bert-for-sentiment-analysis-as-rest-api-using-pytorch-transformers-by-hugging-face-and-fastapi/
+https://www.youtube.com/watch?v=Mw9etoRz0Ic
+https://morioh.com/p/c92e2ee80f53?f=5ece1a68f0e6056e36305f65
+https://github.com/abhishekkrthakur/approachingalmost
+https://blog.paperspace.com/train-keras-models-using-genetic-algorithm-with-pygad/
+https://chrome.google.com/webstore/detail/medium-hackd/fjjfjlecfadomdpeohehfhnbekekdild/related
+https://towardsdatascience.com/how-to-build-a-pipeline-to-retrain-and-deploy-models-58f4f6709de
+https://www.thepythoncode.com/article/stock-price-prediction-in-python-using-tensorflow-2-and-keras
+https://medium.com/towards-artificial-intelligence/deploy-deep-learning-models-using-streamlit-and-heroku-22f6efae9141
+https://www2.slideshare.net/srivatsan88/real-world-end-to-end-machine-learning-pipeline-157130773/7
+https://www.youtube.com/watch?app=desktop&v=G34qoHcYTAY&feature=youtu.be
+https://www.youtube.com/watch?v=ZZ4B0QUHuNc&feature=youtu.be
+*https://www.youtube.com/watch?v=inGjY4cds3Q&feature=youtu.be
+https://medium.com/towards-artificial-intelligence/tweet-topic-modeling-part-4-visualizing-topic-modeling-results-with-plotly-66d5dbaaf7fb
+https://medium.com/towards-artificial-intelligence/tweet-topic-modeling-part-4-visualizing-topic-modeling-results-with-plotly-66d5dbaaf7fb
+https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code?fbclid=IwAR06LvXk8qb8FmSm_BYK6svyJwlkHt042eOIBUNV6oZVwp0uGVszedxTXhY
+https://github.com/eugeneyan/applied-ml
+https://www.kaggle.com/hackspyder/fine-tuning-bert-for-sentiment-analysis
+https://www.kaggle.com/haythemtellili5/silver-solution
+https://medium.com/towards-artificial-intelligence/text-summarization-with-transformers-7d1cbdcaf8c0
+https://medium.com/towards-artificial-intelligence/text-summarization-with-transformers-7d1cbdcaf8c0
+https://stackoverflow.com/questions/65757722/how-do-i-query-the-best-solution-of-a-pygad-ga-instance?sfb=2
+https://github.com/ahmedfgad/KerasGA
+https://sites.google.com/view/naturallanguageprocessingnlpin/home
+https://data-flair.training/blogs/machine-learning-project-ideas/
+https://fall2019.fullstackdeeplearning.com/
+https://www.youtube.com/watch?v=oreIJQZ40H0&feature=youtu.be
