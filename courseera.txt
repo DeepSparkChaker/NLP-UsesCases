@@ -187,3 +187,5 @@ https://www.youtube.com/watch?v=oreIJQZ40H0&feature=youtu.be
 https://medium.com/swlh/using-sktime-for-time-series-classification-part-2-b07bb6b56d5
 https://www.youtube.com/watch?app=desktop&v=dKxMd2U4RwQ
 https://thesequence.substack.com/p/time-series-forecasting-wrap-up
+https://towardsdatascience.com/web-scraping-news-articles-in-python-9dd605799558
+https://towardsdatascience.com/deploying-a-text-classification-model-7ad2d23a556d
