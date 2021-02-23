@@ -191,3 +191,10 @@ https://towardsdatascience.com/web-scraping-news-articles-in-python-9dd605799558
 
 Deploy :
 https://towardsdatascience.com/deploying-a-text-classification-model-7ad2d23a556d
+
+time series data :
+https://www.youtube.com/watch?reload=9&app=desktop&v=PSpb7rJWXww
+https://morioh.com/p/17cc808f9273?f=5c21fb01c16e2556b555ab32
+https://www.youtube.com/watch?v=bn8rVBuIcFg&feature=youtu.be
+https://www.youtube.com/watch?v=68ABAU_V8qI&feature=youtu.be
+https://www.youtube.com/watch?v=VYpAodcdFfA&feature=youtu.be
