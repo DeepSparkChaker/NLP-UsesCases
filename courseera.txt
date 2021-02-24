@@ -270,4 +270,4 @@ https://www.slideshare.net/GautierMarti/how-deep-generative-models-can-help-quan
 https://www.datarobot.com/blog/ai-in-financial-markets-part-1-beyond-the-market-predicting-magic-box/
 https://towardsdatascience.com/trade-smarter-w-reinforcement-learning-a5e91163f315
 https://medium.com/analytics-vidhya/no-lstms-cant-predict-stock-prices-11f10dcb35d6
-
+https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/
