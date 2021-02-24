@@ -188,9 +188,28 @@ https://medium.com/swlh/using-sktime-for-time-series-classification-part-2-b07bb
 https://www.youtube.com/watch?app=desktop&v=dKxMd2U4RwQ
 https://thesequence.substack.com/p/time-series-forecasting-wrap-up
 https://towardsdatascience.com/web-scraping-news-articles-in-python-9dd605799558
+https://www.udemy.com/course/complete-machine-learning-2021-with-10-real-world-projects/?couponCode=FIRST100USER
+https://www.kaggle.com/souravsaha1605/comprehensive-guide-on-imbalanced-data-handling
+https://www.kdnuggets.com/2020/11/top-python-libraries-data-science-data-visualization-machine-learning.html
+https://www.linkedin.com/posts/gautier-marti-344b565a_how-deep-generative-models-can-help-quants-activity-6726835470606622720-fM8o
+https://mega.nz/folder/hehFBIDa#Q-XGIG40TISO1C4pM4W-Jg
+
+
+t_test:
+https://towardsdatascience.com/a-b-testing-a-complete-guide-to-statistical-testing-e3f1db140499
 
 Deploy :
 https://towardsdatascience.com/deploying-a-text-classification-model-7ad2d23a556d
+https://www.youtube.com/watch?app=desktop&v=Ge8CN9z_3sc&feature=youtu.be
+https://ml-ops.org/
+https://towardsdatascience.com/production-machine-learning-monitoring-outliers-drift-explainers-statistical-performance-d9b1d02ac158
+https://pub.towardsai.net/flight-delay-prediction-7cba01b0b0ab
+https://pub.towardsai.net/my-tools-to-increase-ml-model-development-productivity-fba739b18743
+https://www.kdnuggets.com/2020/02/deploy-machine-learning-model.html#disqus_thread
+https://pub.towardsai.net/how-to-dockerize-your-data-science-project-a-quick-guide-b6fa2d6a8ba1
+
+Data Scheet:
+https://github.com/aaronwangy/Data-Science-Cheatsheet
 
 time series data :
 https://www.youtube.com/watch?reload=9&app=desktop&v=PSpb7rJWXww
@@ -198,3 +217,57 @@ https://morioh.com/p/17cc808f9273?f=5c21fb01c16e2556b555ab32
 https://www.youtube.com/watch?v=bn8rVBuIcFg&feature=youtu.be
 https://www.youtube.com/watch?v=68ABAU_V8qI&feature=youtu.be
 https://www.youtube.com/watch?v=VYpAodcdFfA&feature=youtu.be
+https://www.youtube.com/watch?app=desktop&v=XhRL3saKwgk&amp%3Bt=1s
+https://towardsdatascience.com/keep-it-simple-keep-it-linear-a-linear-regression-model-for-time-series-5dbc83d89fc3
+https://pub.towardsai.net/flight-delay-prediction-7cba01b0b0ab
+https://towardsai.net/p/deep-learning/beginners-guide-to-timeseries-forecasting-with-lstms-using-tensorflow-and-keras-364ea291909b
+https://pub.towardsai.net/algorithmic-trading-models-machine-learning-part-1-284845cb4c84
+links:
+https://www.kaggle.com/iamleonie/intro-to-time-series-forecasting
+https://www.kaggle.com/anshuls235/time-series-forecasting-eda-fe-modelling    
+https://towardsdatascience.com/ml-approaches-for-time-series-4d44722e48fe
+https://www.kaggle.com/dimitreoliveira/deep-learning-for-time-series-forecasting
+https://www.kaggle.com/sejinsim/predictive-analysis-with-different-approaches  
+https://www.kaggle.com/sergeydor/web-traffic-time-series-forecast-with-4-model
+https://www.kaggle.com/fatmakursun/time-series-forecasting-unknown-future  
+https://www.kaggle.com/kyakovlev/m5-three-shades-of-dark-darker-magic
+https://www.kaggle.com/c/m5-forecasting-accuracy/discussion/164599
+https://www.kaggle.com/chrisrichardmiles/simple-model-avg-last-28-days-grouped-by-weekday
+https://www.kaggle.com/c/m5-forecasting-accuracy/discussion/164374
+https://www.kaggle.com/c/m5-forecasting-accuracy/discussion/163216
+https://www.kaggle.com/c/m5-forecasting-accuracy/discussion/163916
+https://www.kaggle.com/c/m5-forecasting-uncertainty/discussion/166875
+https://www.kaggle.com/c/m5-forecasting-uncertainty/discussion/166854
+https://www.kaggle.com/c/m5-forecasting-uncertainty/discussion/168053
+https://www.kaggle.com/c/web-traffic-time-series-forecasting/discussion/43795 best !!!
+https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/discussion/8125!!!
+https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/discussion/8023!!!
+https://www.kaggle.com/c/rossmann-store-sales/discussion/17896!!! 
+https://www.kaggle.com/dimitreoliveira/deep-learning-for-time-series-forecasting    
+https://towardsdatascience.com/time-series-forecasting-predicting-stock-prices-using-facebooks-prophet-model-9ee1657132b5    
+https://www.kaggle.com/robikscube/tutorial-time-series-forecasting-with-xgboost
+https://www.kaggle.com/someadityamandal/bitcoin-time-series-forecasting
+https://www.kaggle.com/dimitreoliveira/time-series-forecasting-with-lstm-autoencoders 
+https://www.kaggle.com/husammohammad/time-series-model-sarimax-vs-lstm-vs-fbprophet  
+        solar : 
+https://www.kaggle.com/c/ams-2014-solar-energy-prediction-contest/discussion/6321
+https://github.com/sjvasquez/web-traffic-forecasting
+https://www.kaggle.com/c/web-traffic-time-series-forecasting/discussion/43727    
+https://www.kaggle.com/someadityamandal/bitcoin-time-series-forecasting    
+https://pub.towardsai.net/finding-time-shift-between-two-timeseries-for-maximum-correlation-fc3010f1344e
+https://bmcemergmed.biomedcentral.com/articles/10.1186/s12873-020-00395-y
+https://www.sciencedirect.com/science/article/pii/S2352484
+https://www.xenonstack.com/blog/time-series-analysis/719308546
+https://www.hindawi.com/journals/jhe/2019/6123745/
+https://towardsai.net/p/deep-learning/beginners-guide-to-timeseries-forecasting-with-lstms-using-tensorflow-and-keras-364ea291909b
+https://towardsdatascience.com/keep-it-simple-keep-it-linear-a-linear-regression-model-for-time-series-5dbc83d89fc3  
+https://pub.towardsai.net/flight-delay-prediction-7cba01b0b0ab
+https://pub.towardsai.net/algorithmic-trading-models-machine-learning-part-1-284845cb4c84    
+https://pub.towardsai.net/enriching-sequential-lstm-model-with-non-sequential-features-7224b5262132
+https://www.datasciencecentral.com/profiles/blogs/linear-machine-learning-and-probabilistic-approaches-for-time
+https://www.youtube.com/watch?v=wqQKFu41FIw
+https://www.slideshare.net/GautierMarti/how-deep-generative-models-can-help-quants-reduce-the-risk-of-overfitting
+https://www.datarobot.com/blog/ai-in-financial-markets-part-1-beyond-the-market-predicting-magic-box/
+https://towardsdatascience.com/trade-smarter-w-reinforcement-learning-a5e91163f315
+https://medium.com/analytics-vidhya/no-lstms-cant-predict-stock-prices-11f10dcb35d6
+
