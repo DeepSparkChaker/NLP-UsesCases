@@ -202,6 +202,7 @@ Deploy :
 https://towardsdatascience.com/deploying-a-text-classification-model-7ad2d23a556d
 https://www.youtube.com/watch?app=desktop&v=Ge8CN9z_3sc&feature=youtu.be
 https://ml-ops.org/
+https://fall2019.fullstackdeeplearning.com/course-content/testing-and-deployment
 https://towardsdatascience.com/production-machine-learning-monitoring-outliers-drift-explainers-statistical-performance-d9b1d02ac158
 https://pub.towardsai.net/flight-delay-prediction-7cba01b0b0ab
 https://pub.towardsai.net/my-tools-to-increase-ml-model-development-productivity-fba739b18743
