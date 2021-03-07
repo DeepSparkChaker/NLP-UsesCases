@@ -194,9 +194,10 @@ https://www.kdnuggets.com/2020/11/top-python-libraries-data-science-data-visuali
 https://www.linkedin.com/posts/gautier-marti-344b565a_how-deep-generative-models-can-help-quants-activity-6726835470606622720-fM8o
 https://mega.nz/folder/hehFBIDa#Q-XGIG40TISO1C4pM4W-Jg
 
-
-t_test:
-https://towardsdatascience.com/a-b-testing-a-complete-guide-to-statistical-testing-e3f1db140499
+Stat:
+web.mit.edu/~csvoss/Public/usabo/stats_handout.pdf
+https://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff36/t/55e9494fe4b011aed10e48e5/1441352015658/probability_cheatsheet.pdf
+t_test: https://towardsdatascience.com/a-b-testing-a-complete-guide-to-statistical-testing-e3f1db140499
 
 Deploy :
 https://towardsdatascience.com/deploying-a-text-classification-model-7ad2d23a556d
